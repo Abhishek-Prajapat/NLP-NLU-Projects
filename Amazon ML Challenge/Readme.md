@@ -34,7 +34,7 @@ PRODUCT_ID | - | 0
 
 ## Our Approach:
 With so many target labels we plotted the labels according to their value counts <img src='./Images/value_counts.PNG'> <br>
-The `X-axis` is the number of occurances and the `Y-axis` is the number of undelying classes. This shows that about `1700` were occuring more than `100` times and the rest were occuring less than `100` times.
+The `X-axis` is the number of occurances and the `Y-axis` is the number of undelying classes. This shows that about `1700` classes were occuring more than `100` times and the rest were occuring less than `100` times.
 
 After seeing this curve the most reasonable question was `What labels will test set contain?`. As some classes were occuring very few times in a huge dataset there was more than surety that they will not occur in the test set. With that idea we though of dividing the dataset on different buckets on the basis of number of occurances of each class.
 We made several buckets at about `>=80`, `>=110`, `>=150`, `>=200`.The best result was given by the bucket with occurances `>=110`.
