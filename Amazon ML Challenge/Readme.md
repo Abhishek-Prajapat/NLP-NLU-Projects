@@ -79,7 +79,7 @@ After re-analysis of our approach We beleive these could have yielded better res
 * ### [Aman Thakur](https://www.linkedin.com/in/athakur1703/)
 * ### [Abhishek Prajapat (Me)](https://www.linkedin.com/in/AbhishekPrajapat/)
 
-**Team Name** -> For the most creativity we have ever been we named our team as **`Dekho-Magar-Pyar-Se`** which translates to **`See-But-With-Love`**.
+**Team Name** -> For the most creative we have ever been we named our team as **`Dekho-Magar-Pyar-Se`** which translates to **`See-But-With-Love`**.
 
 
 ## Trained models
